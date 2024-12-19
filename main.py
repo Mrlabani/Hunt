@@ -8,7 +8,7 @@ from flask import Flask
 from threading import Thread
 
 # Bot token
-TOKEN = "7806510181:AAGG3iJpuDAkb2kL-k-kBEms-PYBE92iKIU"
+TOKEN = "7806510181:AAHWqzkO9XM_MvVxybRQlLvw8CuOqKP6B6k"
 bot = telebot.TeleBot(TOKEN)
 fake = Faker()
 
